@@ -1,4 +1,4 @@
-# MLOps Learning Journey
+# MLOPS Learning Journey
 
 ## End-to-End Machine Learning Operations Learning and Implementation Portfolio
 
